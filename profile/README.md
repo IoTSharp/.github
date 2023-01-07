@@ -6,7 +6,7 @@
 
 <p align="center">A open-source IoT platform for data collection, processing, visualization, and device management.</p>
 
-### 📎Links
+### 📎IoTSharp's links
 
 - 👉 [IoTSharp official site](https://iotsharp.io)
 - 👉 [IoTSharp document ](https://docs.iotsharp.io)
@@ -33,5 +33,3 @@
 ### 🌈 IoTSharp ClientApp  Stats 
 
 ![Alt](https://repobeats.axiom.co/api/embed/3b2c55522376496342bbe830319b7ff4210239db.svg "Repobeats analytics image")
-
-This project exists thanks to all the people who contribute.
