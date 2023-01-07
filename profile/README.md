@@ -1,6 +1,6 @@
 # IoTSharp Community
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://iotsharp.io">
     <img width="100" src="https://raw.githubusercontent.com/IoTSharp/IoTSharp/master/docs/static/img/logo_white.svg">
   </a>
@@ -8,7 +8,7 @@
 
 <h1 align="center">IoTSharp</h1>
 <p align="center">A open-source IoT platform for data collection, processing, visualization, and device management.</p>
- -->
+ 
  
 ### 📎Links
 
