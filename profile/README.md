@@ -22,8 +22,8 @@ This project exists thanks to all the people who contribute.
 <a href="https://github.com/iotsharp/iotsharp/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=iotsharp/iotsharp" />
 </a>
-<a href="https://github.com/iotsharp/ClientAppWithVue3/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=iotsharp/ClientAppWithVue3" />
+<a href="https://github.com/iotsharp/ClientApp/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=iotsharp/ClientApp" />
 </a>
 
 ### 🌈 Stats 
