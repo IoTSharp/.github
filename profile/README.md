@@ -1,5 +1,3 @@
-
-
  <p align="center">
   <a href="https://iotsharp.io">
     <img  src="https://raw.githubusercontent.com/IoTSharp/IoTSharp/master/docs/static/img/logo_white.svg">
@@ -7,8 +5,6 @@
 </p>
 
 <p align="center">A open-source IoT platform for data collection, processing, visualization, and device management.</p>
- 
-# IoTSharp Community
 
 ### 📎Links
 
