@@ -19,7 +19,3 @@
   <img src="https://contrib.rocks/image?repo=iotsharp/iotsharp" />
 </a>
 
-### 🌈 IoTSharp Stats 
-
-![Alt](https://repobeats.axiom.co/api/embed/5a16f29e4486e6b43e89e23758183b39b66a7152.svg "Repobeats analytics image")
-
