@@ -1,5 +1,5 @@
  <p align="center">
-  <a href="https://iotsharp.io">
+  <a href="https://iotsharp.net">
     <img  src="https://raw.githubusercontent.com/IoTSharp/IoTSharp/master/docs/static/img/logo_white.svg">
   </a>
 </p>
@@ -8,9 +8,9 @@
 
 ### 📎IoTSharp's links
 
-- 👉 [IoTSharp official site](https://iotsharp.io)
-- 👉 [IoTSharp document ](https://docs.iotsharp.io)
-- 👉 [IoTSharp Demo ](https://demo.iotsharp.net)
+- 👉 [IoTSharp official site](https://iotsharp.net)
+- 👉 [IoTSharp document ](https://docs.iotsharp.net)
+- 👉 [IoTSharp online ](https://host.iotsharp.net)
 
 
 ### ❤ IoTSharp Contributors 
